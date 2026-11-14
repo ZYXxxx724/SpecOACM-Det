@@ -1,0 +1,20 @@
+name: specoacm
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit
+  - numpy
+  - opencv
+  - pillow
+  - einops
+  - tqdm
+  - pip
+  - pip:
+      - mamba-ssm
+      - causal-conv1d

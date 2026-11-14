@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+mamba-ssm
+causal-conv1d
+numpy
+opencv-python
+pillow
+einops
+tqdm
+mmcv                   
+mmdet                  
+mmengine 
